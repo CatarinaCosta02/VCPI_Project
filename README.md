@@ -18,7 +18,7 @@ All results and process are documented and can be seen in the jupyter notebook.
 
 ## Structure
 
-| File | Descrição |
+| File | Description |
 | :--- | :--- |
 | `Catarina_Costa_pg52676_individual.ipynb` | Jupyter Notebook with all the pytorch implementation|
 
