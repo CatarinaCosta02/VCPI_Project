@@ -13,7 +13,7 @@ All results and process are documented and can be seen in the jupyter notebook.
 - **Language:** Python
 - **Deep Learning:** PyTorch
 - **Image Processing:** OpenCV, PIL, Torchvision
-- Google Colab & Kaggle (GPU P100/T4)
+- **GPU:** Google Colab & Kaggle (GPU P100/T4)
 
 
 ## Structure
